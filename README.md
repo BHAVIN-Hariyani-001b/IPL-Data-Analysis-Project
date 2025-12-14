@@ -84,12 +84,11 @@ git clone https://github.com/your-username/IPL-Data-Analysis.git
 
 --- 
 
-## Activate the virtual environment 
+## Install required libraries
+
 
 ```
-Windows (Command Prompt):
-
-.\venv\Scripts\activate
+    pip install -r requirements.txt
 ```
 
 ---
@@ -103,6 +102,7 @@ jupyter notebook
 ---
 
 
-## Run IPL_Analysis.ipynb
+## Run 
+IPL_Analysis.ipynb
 ---
 

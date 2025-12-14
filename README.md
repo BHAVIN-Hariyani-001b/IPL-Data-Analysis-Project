@@ -103,9 +103,6 @@ jupyter notebook
 ---
 
 
-## Run cell in jupyter notebook
-```
-IPL_Analysis.ipynb
-```
+## Run IPL_Analysis.ipynb
 ---
 
